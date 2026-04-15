@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eee;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+}
+
+h2 {
+    background-color: #a33;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+h3 {
+    color: rgb(50, 60, 202);
+    margin-top: 20px;
+}
+
+ol,
+ul {
+    margin-left: 30px;
+}
+
+li {
+    margin: 5px 0;
+}
+
+/* popisný seznam */
+dl {
+    margin-left: 20px;
+}
+
+dt {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+dd {
+    margin-left: 20px;
+}
+
+/* tabulka */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: white;
+}
+
+caption {
+    background-color: #333;
+    color: white;
+    padding: 8px;
+    font-weight: bold;
+}
+
+th,
+td {
+    border: 1px solid #666;
+    padding: 8px;
+}
+
+thead {
+    background-color: #ddd;
+}
+
+tfoot {
+    background-color: #ddd;
+    font-weight: bold;
+    color: red;
+}
+
+td:first-child {
+    text-align: left;
+}
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
+.black {
+color : black;
+}
